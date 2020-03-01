@@ -1,4 +1,5 @@
 #Metaheurystki
+Dominika Stryjewska
 PJWSTK zaoczne 2020
 
 Projekt- gra fillomino
