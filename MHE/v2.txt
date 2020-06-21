@@ -1,0 +1,5 @@
+1 o o o 4
+3 2 3 o 2
+o o o o 1
+o o o 2 o
+4 o 3 o o
